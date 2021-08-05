@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-21T18:20:28 IST" name="Default suite" finished-at="2021-07-21T18:20:31 IST" duration-ms="2652">
+    <groups>
+    </groups>
+    <test started-at="2021-07-21T18:20:28 IST" name="Default test" finished-at="2021-07-21T18:20:31 IST" duration-ms="2652">
+      <class name="com.rest.training.PathParam">
+        <test-method signature="path_param1()[pri:0, instance:com.rest.training.PathParam@306cf3ea]" started-at="2021-07-21T18:20:28 IST" name="path_param1" finished-at="2021-07-21T18:20:31 IST" duration-ms="2456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- path_param1 -->
+        <test-method signature="path_param2()[pri:0, instance:com.rest.training.PathParam@306cf3ea]" started-at="2021-07-21T18:20:31 IST" name="path_param2" finished-at="2021-07-21T18:20:31 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- path_param2 -->
+      </class> <!-- com.rest.training.PathParam -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
